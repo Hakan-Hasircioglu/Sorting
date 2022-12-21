@@ -1,2 +1,2 @@
 # Sorting
-https://kodluyoruz.org/tr/kodluyoruz/ Veri Yapıları ve Algoritma Proje 1 
+https://kodluyoruz.org/tr/kodluyoruz/ Veri Yapıları ve Algoritma Projeler
